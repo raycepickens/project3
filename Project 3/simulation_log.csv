@@ -1,0 +1,43 @@
+Time Increment,Driver,Company,CrateId,Value,Scenario
+1,Driver_44,Company_9,f1620ae7-055a-4397-874e-5f5835854f57,115,Next Truck Not in Dock
+4,Driver_71,Company_3,dcb2dc30-e6f0-450c-a162-966fe0ebf76c,373,Next Truck Not in Dock
+7,Driver_74,Company_2,030f860a-7cf0-47ac-aa50-6753a7024b4a,362,More Crates to Unload
+7,Driver_74,Company_2,a4c4f5a0-2024-445f-ba32-3b77a0e81eb5,223,More Crates to Unload
+7,Driver_74,Company_2,a3abb1d7-f7c6-4cee-a1ea-7a27a6ba97b0,294,More Crates to Unload
+10,Driver_35,Company_9,239c3a0f-d322-48e3-995e-cc51940cd43f,370,More Crates to Unload
+10,Driver_35,Company_9,4f4c9aad-65a3-402e-934b-80a6ec96726c,222,More Crates to Unload
+10,Driver_35,Company_9,3fbe6815-615b-42da-8c98-fbb2f824b10a,494,More Crates to Unload
+13,Driver_55,Company_8,53f22886-273d-4b96-8e29-866538394947,360,More Crates to Unload
+13,Driver_55,Company_8,a51c0e7f-2ba3-4c9c-9ffd-48985864ba7b,190,More Crates to Unload
+16,Driver_96,Company_7,9fa85eaf-9deb-456c-a048-6e798bcd17bb,405,More Crates to Unload
+16,Driver_96,Company_7,48ed0ed9-4d40-4022-852f-db84f7878146,179,More Crates to Unload
+16,Driver_96,Company_7,da4763b3-6eca-43c7-ae0e-6eea27a4b8da,90,More Crates to Unload
+16,Driver_96,Company_7,c8293958-17a1-4cc1-9d95-dcd5710d66fa,439,More Crates to Unload
+19,Driver_18,Company_6,b9a88113-efd4-40c3-a2fb-ad0374d657e3,154,Next Truck Not in Dock
+22,Driver_58,Company_7,d838432c-3341-4e18-adfb-1b9ab02554e8,372,More Crates to Unload
+22,Driver_58,Company_7,06dfa1e6-b0d6-4f94-841d-ae72cb6f8bf5,106,More Crates to Unload
+22,Driver_58,Company_7,62955aee-488f-4f18-b923-954a47cc2043,137,More Crates to Unload
+22,Driver_58,Company_7,eb444d88-2069-4729-8788-fc3f51fd83e4,250,More Crates to Unload
+25,Driver_24,Company_1,3ccc7ed0-91e9-4d19-b8fc-d6abf670bd21,446,More Crates to Unload
+25,Driver_24,Company_1,9cba4037-dd4e-468e-b199-d83c9955f25f,381,More Crates to Unload
+25,Driver_24,Company_1,5822a19f-0e8a-430f-81ba-949fa86f3105,168,More Crates to Unload
+28,Driver_80,Company_8,765bd733-221e-49a8-8fb7-fffc330a329d,179,Next Truck Not in Dock
+31,Driver_32,Company_6,2f1ab896-bdc8-483a-bbc4-9d5ca7e9df92,350,Next Truck Not in Dock
+34,Driver_72,Company_8,63fa5b0c-bffb-4997-8835-8ba25e15aee9,384,More Crates to Unload
+34,Driver_72,Company_8,81955b51-daae-4e36-bbce-72a43fc2b7aa,123,More Crates to Unload
+34,Driver_72,Company_8,55800242-8885-4949-9ba9-f5f5fba35871,182,More Crates to Unload
+34,Driver_72,Company_8,588190f9-a521-434b-84d8-7e10be2e6517,303,More Crates to Unload
+37,Driver_45,Company_8,161bd9dd-0e28-4441-8b11-c6c1fe20bd86,302,More Crates to Unload
+37,Driver_45,Company_8,eabbe98c-6a83-410d-9a31-02da8034f31a,404,More Crates to Unload
+37,Driver_45,Company_8,c1741e26-e393-4f8d-b9ef-76acaa876347,490,More Crates to Unload
+37,Driver_45,Company_8,2b7cebea-cd13-44fa-a9d4-9a09f7d88fe9,498,More Crates to Unload
+40,Driver_74,Company_4,dc61a5f8-4f24-4607-9ae1-e080f7c369fc,109,More Crates to Unload
+40,Driver_74,Company_4,331aed26-ec99-444e-a502-067f1b7eb569,60,More Crates to Unload
+40,Driver_74,Company_4,43aa0ad8-7cfc-47a6-a0e4-4c420ed0f6eb,232,More Crates to Unload
+40,Driver_74,Company_4,929e3729-c3f6-41a4-bbec-29bf281778a2,170,More Crates to Unload
+43,Driver_7,Company_7,400c6b6f-815c-40c3-9325-c2ab934a8657,494,More Crates to Unload
+43,Driver_7,Company_7,a723858b-5a29-4738-a822-3ad16e5a9938,80,More Crates to Unload
+43,Driver_7,Company_7,08a89acb-8320-458e-8515-6731f78e43a5,162,More Crates to Unload
+46,Driver_50,Company_5,9602074e-9e6a-465e-870d-199955cfda92,159,More Crates to Unload
+46,Driver_50,Company_5,12a6640e-adb8-4959-8bed-424e15cc44e2,396,More Crates to Unload
+46,Driver_50,Company_5,f1e83150-495c-441e-98cf-d8974c2a23ee,80,More Crates to Unload
